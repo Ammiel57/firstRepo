@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">localOp</string>
+    <string name="please_enter_your_name">please enter your name</string>
+    <string name="please_enter_your_age">Please enter your Age</string>
+    <string name="staff_member">Staff Member</string>
+    <string name="it_student">IT Student</string>
+    <string name="banned_from_store">Banned from store</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+    <string name="check_discount_eligibility">Check discount eligibility</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_age">Enter your Age</string>
 </resources>
